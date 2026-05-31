@@ -2,7 +2,7 @@
 // AI WEATHER PLANNER — Complete Application JS
 // ============================================
 
-const apiKey = CONFIG.API_KEY;
+const API_KEY = "ffc915ed0f72909c2971ec79d394900d";  
 
 // ===================== STATE =====================
 let clockInterval = null;

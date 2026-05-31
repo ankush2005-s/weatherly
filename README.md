@@ -1,6 +1,6 @@
-# 🌤 Weatherly — Smart Weather Forecast Web App
+# 🌤 EarthCast — Smart Weather Forecast Web App
 
-Weatherly is a modern, responsive weather forecasting web application that provides real-time weather information, 5-day forecasts, animated backgrounds, and smart UI interactions. It is designed with clean architecture, smooth UX, and beginner-friendly maintainability in mind.
+EarthCast is a modern, responsive weather forecasting web application that provides real-time weather information, 5-day forecasts, animated backgrounds, and smart UI interactions. It is designed with clean architecture, smooth UX, and beginner-friendly maintainability in mind.
 
 This project demonstrates practical frontend development skills including API integration, UI/UX design, DOM manipulation, local storage caching, and modular code structure.
 
@@ -127,7 +127,7 @@ If you'd like to improve UI, performance, or add features:
 
 ## Author
 
-Built with ❤️ by **Bhaskar Mishra With Team Support** 
+Built with ❤️ by **ANKUSH Mishra With Team Support** 
 
 Learning focus: frontend development, API integration, UI design, and real-world web app architecture.
 
@@ -149,4 +149,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-### Weatherly — Your personal weather companion
+### EarthCast — Your personal weather companion
